@@ -317,7 +317,7 @@ QUESTIONS = [
 # ============================================================
 # إعداد البوت
 # ============================================================
-BOT_TOKEN = "ضع_توكن_البوت_هنا"
+BOT_TOKEN = BOT_TOKEN = "8603168006:AAEcLrC7isNzcUPJJeVRBqt5KVLMWzpYF4c"
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
