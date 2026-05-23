@@ -11,7 +11,7 @@ from telegram.ext import (
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN",BOT_TOKEN = "8603168006:AAEcLrC7isNzcUPJJeVRBqt5KVLMWzpYF4c")
+BOT_TOKEN = "8603168006:AAEcLrC7isNzcUPJJeVRBqt5KVLMWzpYF4c"
 
 QUESTIONS = [
     # === القضية السكانية ===
